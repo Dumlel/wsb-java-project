@@ -26,6 +26,7 @@ public class Main {
         Phone phone1 = new Phone("Samsung","s20",8);
         Phone phone2 = new Phone("Sony","XZY",9);
 
+
         System.out.println(human1);
         System.out.println(human1.lastName);
 
