@@ -20,6 +20,7 @@ public class Main {
         Human human1 = new Human("Jan", "Nowak", 23 );
         Human human2 = new Human("Janina", "Kowalska", 51 );
 
+
         Animal animal1 = new Animal("Mruczek","czarno-bialy","kot", 3);
         Animal animal2 = new Animal("Szczeczek","rudy-przypalany","pies", 25);
 
